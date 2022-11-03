@@ -2,15 +2,18 @@
 
 Cool effective delivery app project
 -Admin and user Authentication
-- login with socials
-STACK
-- html
-- css
-- Javascript
- - jquery
-- laravel php
-- mysql
+-login with socials
 
+#### STACK
+  HTML
+CSS 
+JAVASCRIPT 
+JQUERY 
+PHP 
+LARAVEL 
+MYSQL
+
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,jquery,php,laravel,vue,mysql,bootstrap)](https://skills.thijs.gg)
 ### Solar System Exploration, 1950s – 1960s
 
 - [ ] Mercury
